@@ -1,0 +1,45 @@
+Date:,Mon 26 Sep 2022 07:53:28 PM EDT,,,,,,,,,,,
+Tool:,Eeschema 6.0.7-f9a2dced07~116~ubuntu20.04.1,,,,,,,,,,,
+Component Count:,17,,,,,,,,,,,
+,,,,,,,,,,,,
+Individual Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MANUFACTURER,STANDARD,Spice_Lib_File,Spice_Model,Spice_Netlist_Enabled,Spice_Primitive
+,,C17,470uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,,,470u,Y,C
+,,C18,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+,,C19,10uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~,,,,10u,Y,C
+,,D7,1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,,1N4007,Y,D
+,,D8,1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,,1N4007,Y,D
+,,F2,"500mA, 250V Fuse",Device:Fuse,0PTF0078P:0PTF0078P,~,,,,,,
+,,J3,120/240VAC,Connector_Generic:Conn_01x02,Connector_Wire:SolderWire-1sqmm_1x02_P5.4mm_D1.4mm_OD2.7mm,~,,,,,,
+,,J4,SCR out,Connector_Generic:Conn_01x02,TB007-508-02GR:CUI_TB007-508-02GR,~,,,,,,
+,,J7,Jumper,Connector_Generic:Conn_02x01,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,,,,,,
+,,J8,Jumper,Connector_Generic:Conn_02x01,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,,,,,,
+,,Q4,IF D92,Device:Q_Photo_NPN,IF-E91A:IF-E91A,~,,,,,,
+,,Q5,P30N06LE,Device:Q_NMOS_GDS,Package_TO_SOT_THT:TO-220-3_Vertical,~,,,,,,
+,,Q6,2N3904,Transistor_BJT:2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,,,,2N3904,Y,Q
+,,R21,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+,,R22,220 (2W),Device:R_US,Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal,~,,,,,,
+,,T2,FS28-200-C2,FS28-200-C2:FS28-200-C2,FS28-200-C2:TRANSFORMER_FS28-200-C2,,Triad,Manufacturer Recommendations,,,,
+,,U5,LM7812_TO220,Regulator_Linear:LM7812_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,,,,LM7812,Y,X
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Collated Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MANUFACTURER,STANDARD,,Spice_Model,Spice_Netlist_Enabled,Spice_Primitive
+1,1,C17,470uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,,,470u,Y,C
+2,1,C18,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+3,1,C19,10uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~,,,,10u,Y,C
+4,2,"D7, D8",1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,,1N4007,Y,D
+5,1,F2,"500mA, 250V Fuse",Device:Fuse,0PTF0078P:0PTF0078P,~,,,,,,
+6,1,J3,120/240VAC,Connector_Generic:Conn_01x02,Connector_Wire:SolderWire-1sqmm_1x02_P5.4mm_D1.4mm_OD2.7mm,~,,,,,,
+7,1,J4,SCR out,Connector_Generic:Conn_01x02,TB007-508-02GR:CUI_TB007-508-02GR,~,,,,,,
+8,2,"J7, J8",Jumper,Connector_Generic:Conn_02x01,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,,,,,,
+9,1,Q4,IF D92,Device:Q_Photo_NPN,IF-E91A:IF-E91A,~,,,,,,
+10,1,Q5,P30N06LE,Device:Q_NMOS_GDS,Package_TO_SOT_THT:TO-220-3_Vertical,~,,,,,,
+11,1,Q6,2N3904,Transistor_BJT:2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,,,,2N3904,Y,Q
+12,1,R21,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+13,1,R22,220 (2W),Device:R_US,Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal,~,,,,,,
+14,1,T2,FS28-200-C2,FS28-200-C2:FS28-200-C2,FS28-200-C2:TRANSFORMER_FS28-200-C2,,Triad,Manufacturer Recommendations,,,,
+15,1,U5,LM7812_TO220,Regulator_Linear:LM7812_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,,,,LM7812,Y,X

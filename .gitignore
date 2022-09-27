@@ -1,0 +1,7 @@
+*.zip
+*backups/
+*.bak
+gerber_out/
+fp-info-cache
+*.xml
+*.wbk

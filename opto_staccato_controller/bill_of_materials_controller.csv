@@ -1,0 +1,103 @@
+Date:,Mon 26 Sep 2022 07:49:17 PM EDT,,,,,,,,,,,
+Tool:,Eeschema 6.0.7-f9a2dced07~116~ubuntu20.04.1,,,,,,,,,,,
+Component Count:,60,,,,,,,,,,,
+,,,,,,,,,,,,
+Individual Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MANUFACTURER,STANDARD,Spice_Lib_File,Spice_Model,Spice_Netlist_Enabled,Spice_Primitive
+,,C1,470uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,,,470u,Y,C
+,,C2,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+,,C3,10uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~,,,,10u,Y,C
+,,C4,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+,,C5,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+,,C6,0.33uF,Device:C,Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm,~,,,,,,
+,,C7,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+,,C8,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+,,C9,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.2u,Y,C
+,,C10,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.001u,Y,C
+,,C11,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+,,C12,10uF,Device:C,Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm,~,,,,10u,Y,C
+,,C13,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+,,C14,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+,,C15,0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+,,C16,15pF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+,,D1,1N4148,Diode:1N4007,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,,1N4007,Y,D
+,,D2,1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,,1N4007,Y,D
+,,D3,1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,,1N4007,Y,D
+,,D4,LED,Device:LED,LED_THT:LED_D5.0mm_Clear,~,,,,LED_GENERAL,Y,D
+,,D5,LED,Device:LED,LED_THT:LED_D5.0mm_Clear,~,,,,LED_GENERAL,Y,D
+,,D6,IF E97,:LED_1,IF-E91A:IF-E91A,~,,,,,,
+,,F1,"500mA, 250V Fuse",Device:Fuse,0PTF0078P:0PTF0078P,~,,,,,,
+,,J1,120/240VAC,Connector_Generic:Conn_01x02,Connector_Wire:SolderWire-1sqmm_1x02_P5.4mm_D1.4mm_OD2.7mm,~,,,,,,
+,,J2,External Signal,Connector_Generic:Conn_01x02,TB007-508-02GR:CUI_TB007-508-02GR,~,,,,,,
+,,J5,Jumper,Connector_Generic:Conn_02x01,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,,,,,,
+,,J6,Jumper,Connector_Generic:Conn_02x01,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,,,,,,
+,,Q1,2N3906,Transistor_BJT:2N3906,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3906-D.PDF,,,,2N3906,Y,Q
+,,Q2,2N3904,Transistor_BJT:2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,,,,2N3904,Y,Q
+,,Q3,2N3904,Transistor_BJT:2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,,,,2N3904,Y,Q
+,,R1,100k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,100k,Y,R
+,,R2,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+,,R3,2.2k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,2.2k,Y,R
+,,R4,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+,,R5,2.2k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,2.2k,Y,R
+,,R6,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,100k,Y,R
+,,R7,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,100k,Y,R
+,,R8,4.7k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+,,R9,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+,,R10,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+,,R11,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+,,R12,1k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+,,R13,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+,,R14,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+,,R15,330,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+,,R16,1k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+,,R17,1k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+,,R18,10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+,,R19,470,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+,,R20,4.7k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+,,RV1,50k,Device:R_Potentiometer_US,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+,,RV2,100k,Device:R_Potentiometer_US,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,,pot50k,Y,X
+,,SW1,SW_SPDT,Switch:SW_SPDT,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+,,SW2,SW_SPDT,Switch:SW_SPDT,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+,,SW3,SW_SP3T,Switch:SW_SP3T,Connector_Wire:SolderWire-0.5sqmm_1x04_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+,,T1,FS28-200-C2,FS28-200-C2:FS28-200-C2,FS28-200-C2:TRANSFORMER_FS28-200-C2,,Triad,Manufacturer Recommendations,,,,
+,,U1,LM7812_TO220,Regulator_Linear:LM7812_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,,,,LM7812,Y,X
+,,U2,NE555P,Timer:NE555P,Package_DIP:DIP-8_W7.62mm,http://www.ti.com/lit/ds/symlink/ne555.pdf,,,,NE555,Y,X
+,,U3,NE555P,Timer:NE555P,Package_DIP:DIP-8_W7.62mm,http://www.ti.com/lit/ds/symlink/ne555.pdf,,,,NE555,Y,X
+,,U4,NE555P,Timer:NE555P,Package_DIP:DIP-8_W7.62mm,http://www.ti.com/lit/ds/symlink/ne555.pdf,,,,NE555,Y,X
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Collated Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MANUFACTURER,STANDARD,Spice_Lib_File,Spice_Model,Spice_Netlist_Enabled,Spice_Primitive
+1,1,C1,470uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,,,470u,Y,C
+2,11,"C2, C4, C5, C7, C8, C9, C10, C11, C13, C14, C15",0.1uF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,0.1u,Y,C
+3,1,C3,10uF,Device:C_Polarized_US,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,~,,,,10u,Y,C
+4,1,C6,0.33uF,Device:C,Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm,~,,,,,,
+5,1,C12,10uF,Device:C,Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm,~,,,,10u,Y,C
+6,1,C16,15pF,Device:C,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,,,,,
+7,1,D1,1N4148,Diode:1N4007,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/Diode/DIODE2.lib,1N4007,Y,D
+8,2,"D2, D3",1N4007,Diode:1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/Diode/DIODE2.lib,1N4007,Y,D
+9,2,"D4, D5",LED,Device:LED,LED_THT:LED_D5.0mm_Clear,~,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/Diode/led.lib,LED_GENERAL,Y,D
+10,1,D6,IF E97,:LED_1,IF-E91A:IF-E91A,~,,,,,,
+11,1,F1,"500mA, 250V Fuse",Device:Fuse,0PTF0078P:0PTF0078P,~,,,,,,
+12,1,J1,120/240VAC,Connector_Generic:Conn_01x02,Connector_Wire:SolderWire-1sqmm_1x02_P5.4mm_D1.4mm_OD2.7mm,~,,,,,,
+13,1,J2,External Signal,Connector_Generic:Conn_01x02,TB007-508-02GR:CUI_TB007-508-02GR,~,,,,,,
+14,2,"J5, J6",Jumper,Connector_Generic:Conn_02x01,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,~,,,,,,
+15,1,Q1,2N3906,Transistor_BJT:2N3906,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3906-D.PDF,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/Transistor/BJT/BJT.lib,2N3906,Y,Q
+16,2,"Q2, Q3",2N3904,Transistor_BJT:2N3904,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/Transistor/BJT/BJT.lib,2N3904,Y,Q
+17,1,R1,100k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,100k,Y,R
+18,10,"R2, R4, R6, R7, R9, R10, R11, R13, R14, R18",10k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,10k,Y,R
+19,2,"R3, R5",2.2k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,2.2k,Y,R
+20,2,"R8, R20",4.7k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+21,3,"R12, R16, R17",1k,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+22,1,R15,330,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,1k,Y,R
+23,1,R19,470,Device:R_US,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,
+24,1,RV1,50k,Device:R_Potentiometer_US,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+25,1,RV2,100k,Device:R_Potentiometer_US,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_basic_models/others/50kpot.lib,pot50k,Y,X
+26,2,"SW1, SW2",SW_SPDT,Switch:SW_SPDT,Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+27,1,SW3,SW_SP3T,Switch:SW_SP3T,Connector_Wire:SolderWire-0.5sqmm_1x04_P4.6mm_D0.9mm_OD2.1mm,~,,,,,,
+28,1,T1,FS28-200-C2,FS28-200-C2:FS28-200-C2,FS28-200-C2:TRANSFORMER_FS28-200-C2,,Triad,Manufacturer Recommendations,,,,
+29,1,U1,LM7812_TO220,Regulator_Linear:LM7812_TO220,Package_TO_SOT_THT:TO-220-3_Vertical,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/uncategorized/Bordodynovs Electronics Lib/sub/regulators.lib,LM7812,Y,X
+30,3,"U2, U3, U4",NE555P,Timer:NE555P,Package_DIP:DIP-8_W7.62mm,http://www.ti.com/lit/ds/symlink/ne555.pdf,,,/media/nick/3TB_HDD/College Documents/Personal/Coil Labs Files/kicad_spice_library/Models/uncategorized/Bordodynovs Electronics Lib/sub/timers.lib,NE555,Y,X
