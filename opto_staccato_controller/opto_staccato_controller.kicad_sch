@@ -2279,9 +2279,14 @@
     (uuid fec3b2c4-f149-4336-83d4-92d4c162b5c9)
   )
 
-  (text "All resistors are 1/2W unless otherwise indicated" (at 302.26 257.81 0)
+  (text "All resistors are 1/2W unless otherwise indicated" (at 144.78 139.7 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28c8e53d-8f29-4936-ae95-d808159a4212)
+  )
+  (text "Copyright Nick Ohi, Coil Labs 2022.\nThis source describes Open Hardware and is licensed under the CERN-OHL-\nW v2\nYou may redistribute and modify this documentation and make products\nusing it under the terms of the CERN-OHL-W v2 (https:/cern.ch/cern-ohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY\nAND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W v2\nfor applicable conditions.\nSource location: https://github.com/Coil-Labs/opto-staccato"
+    (at 269.24 154.94 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3daf5f32-617b-443d-86ff-18d244ab1c06)
   )
   (text "N" (at 27.94 48.26 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

@@ -2,7 +2,7 @@
 
   (uuid 9dd87aa7-860a-4847-b444-db7288692434)
 
-  (paper "A3")
+  (paper "A4")
 
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
@@ -1216,9 +1216,14 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 27a64e2b-ea99-4052-84a0-d28ea105b59a)
   )
-  (text "All resistors are 1/2W unless otherwise indicated" (at 302.26 257.81 0)
+  (text "All resistors are 1/2W unless otherwise indicated" (at 35.56 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28c8e53d-8f29-4936-ae95-d808159a4212)
+  )
+  (text "Copyright Nick Ohi, Coil Labs 2022.\nThis source describes Open Hardware and is licensed under the CERN-OHL-\nW v2\nYou may redistribute and modify this documentation and make products\nusing it under the terms of the CERN-OHL-W v2 (https:/cern.ch/cern-ohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY\nAND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W v2\nfor applicable conditions.\nSource location: https://github.com/Coil-Labs/opto-staccato"
+    (at 120.65 114.3 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4dac42c7-08d9-42e2-9117-c9ee78aa0933)
   )
   (text "N" (at 34.29 43.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

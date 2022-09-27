@@ -5,3 +5,4 @@ gerber_out/
 fp-info-cache
 *.xml
 *.wbk
+*.pdf
