@@ -23,11 +23,13 @@ The SCR or TRIAC used for Staccato operation is not included on the Receiver PCB
 
 The fiber optic transmitter and receiver use standard 1000um core, 2.2mm jacket plastic fiber cable. The fuses are 500mA, 250V, fast blow, glass cartridge, 5mm x 20mm.
 
-## Controller Schematic
-
-## Receiver Schematic
-
 ## License
 These design files are published under the CERN Open Hardware License Version 2 - Weakly Reciprocal variant (CERN-OHL-W). Read more here (https://cern.ch/cern-ohl).
 
 This is a copyleft, share-alike, open-source license. This means that you are free to redistribute, modify, or make derivatives these designs, and even commercialize them. But you MUST keep the redistributed, modified, or derivative designs open-source and under this or a compatible license. You CANNOT make modified or derivative designs proprietary; they MUST be kept open-source. This is different than a "permissive" open-source license, where you can make modifications or derivatives proprietary and then commercialize and profit off of your proprietary modification. You are absolutely free to commercialize and profit from modifications of this design, however, it must remain open-source and accessible to the public. Copyleft, share-alike is a philosophy. Scientific and engineering knowledge should not be kept as trade secrets and locked down under patents, owned by the wealthy, to only benefit the wealthy. Knowledge should be freely shared, always. Publishing scientific and engineering works under copyleft, share-alike licenses helps to create a more fair and democratic future where the hoarding of trade secrets is not a way to gain a competitive advantage. Please consider publishing your own works under such a license.
+
+## Controller Schematic
+![Controller Schematic](/opto_staccato_controller/opto_staccato_controller_schematic.jpg)
+
+## Receiver Schematic
+![Receiver Schematic](/opto_staccato_receiver/opto_staccato_receiver_schematic.jpg)
