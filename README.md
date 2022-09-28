@@ -7,6 +7,8 @@ This circuit is based on the original Staccato Controller, created by Steve Ward
 
 This circuit is featured on the Coil Labs YouTube channel and is used to interrupt a large VTTC (https://youtu.be/IDOrxT_r8TY). This project was sponsored in part by PCBgogo (https://www.pcbgogo.com/), who provided the PCBs for this video.
 
+The KiCad source files for both boards are available in this repository and the gerber files for both boards are available as .zip files in the Releases.
+
 ## Description
 
 The Controller PCB detects the mains frequency zero crossing and then sends a pulse to the Receiver (with a controllable delay based on potentiometer RV1), signaling when to let the Tesla coil primary circuit to begin conducting. This signal is sent over a fiber optic link to protect the user from coming into contact with high voltage and enabling them to maintain a safe distance from the Tesla coil. The other controllable parameter (set by potentiometer RV2) of the Controller is the interrupter hold-off time, which enables the Tesla coil to be driven at integer factors of the mains frequency (e.g., 60 Hz, 30 Hz, 15 Hz, etc. in North America).
